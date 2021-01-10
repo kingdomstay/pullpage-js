@@ -1,0 +1,18 @@
+{
+  "name": "pullpage-js",
+  "version": "1.0.0",
+  "description": "A small JavaScript library for your web and hybrid apps ,created to support pull to refresh library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pulltorefresh",
+    "hybrid",
+    "js",
+    "angular",
+    "pullpage"
+  ],
+  "author": "Kingdom Stay",
+  "license": "MIT"
+}
