@@ -1,10 +1,10 @@
 {
   "name": "pullpage-js",
   "version": "1.0.0",
-  "description": "A small JavaScript library for your web and hybrid apps ,created to support pull to refresh library",
+  "description": "A small JavaScript library for your web and hybrid apps, created to support pull to refresh features",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "."
   },
   "keywords": [
     "pulltorefresh",
@@ -16,7 +16,7 @@
   "author": "Kirill Troitskij",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kingdomstay/pullpage-js"
+    "url": "git+https://github.com/kingdomstay/pullpage-js.git"
   },
   "bugs": {
     "url": "https://github.com/kingdomstay/pullpage-js/issues"

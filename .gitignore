@@ -1,0 +1,6 @@
+# Installed Node modules
+node_modules
+
+# Workspaces
+.idea
+.vscode
